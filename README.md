@@ -7,7 +7,7 @@ In order to determine the likelihood for a bikesharing business to succeed in Io
 ### Starting/Ending Locations
 One of the things we analyzed were the most popular starting and ending locations. We found that the most used starting and ending points are very simliar. It seems to indicate that on average people don't ride a great distance from start to finish, that they return to where they started from, or some combination of the two.
 
-![start_end](<img src="https://github.com/coryknuth/bikesharing/blob/99e96017544b00a8a3726a01c6069c8f3256d1c2/Locations.png" width="200"/>)
+[![start_end](<img src="https://github.com/coryknuth/bikesharing/blob/99e96017544b00a8a3726a01c6069c8f3256d1c2/Locations.png" width="200"/>)]
 
 ### Ride Lengths
 We also noticed from the data that total ride durations on average tend to be very short, with most being around the 5 minutes mark.
