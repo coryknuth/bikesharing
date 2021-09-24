@@ -29,3 +29,6 @@ We also see from the data that a majority of the riders are Men.
 After analyzing our results, it seems well supported that a strong portion of the bikesharing users from the New York data are commuters using the bikes to get to and from work. It would help the new Iowa bikesharing business in the early stages of launching to focus on building stations around business districts in the city, as well as population centers, allowing people to use the bikes for their daily commute. This would provide a good initial, loyal customer base to facilitate growth. 
 
 For further analysis, we would recommend looking into individual bike usage statistics and repair costs and statistics to help develop and initial budget for bike upkeep and maintenence.
+
+#### Link to Tableau
+[link to dashboard](https://public.tableau.com/views/NYCBikeSharingData_16324987370870/Story1?:language=en-US&:retry=yes&:display_count=n&:origin=viz_share_link)
